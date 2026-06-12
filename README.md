@@ -62,4 +62,4 @@ Samruddhi Chavan
 
 Aspiring Software Engineer | Frontend Developer
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: https://www.linkedin.com/in/samruddhi-chavan-1a0208322/
